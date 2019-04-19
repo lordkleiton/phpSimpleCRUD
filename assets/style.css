@@ -1,4 +1,26 @@
-body {
-    background-color: beige;
+body{
+    background-color: #ddddfd;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.conteudo{
+    padding: 30px;
+    border: solid 1px #1826e800;
+    border-radius: 25px;
+    box-shadow: 5px 5px 14px 0px #371456A0;
+    margin: 20px auto;
+    max-width: 1000px;
+    background-color: #efeff7;
+}
+
+h1{
+    margin-top: 0;
+}
+
+input[type="submit"] {
+    background-color: #255c62;
+    color: #FFF;
+    padding: 5px 8px;
+    border: none;
+    border-radius: 5px;
 }
