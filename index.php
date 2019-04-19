@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <?php include 'components/head.html' ?>
     <title>simpleCRUD</title>
 </head>
 <body>
+    
     <h1>Criação de produto</h1>
     <form action="insert.php" method="POST" enctype="multipart/form-data">
         <label for="campoImg">Insira o nome do produto: </label>
