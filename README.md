@@ -1,1 +1,1 @@
-Uma simples aplicação php
+A simple PHP CRUD system. 
