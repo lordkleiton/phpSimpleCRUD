@@ -5,6 +5,7 @@
     <title>Cadastro de produto</title>
 </head>
 <body>
+    <a href="index.php"><div class="btnVoltar"><</div></a>
     <?php 
         include 'config.php';
 
