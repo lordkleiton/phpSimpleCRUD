@@ -24,3 +24,13 @@ input[type="submit"] {
     border: none;
     border-radius: 5px;
 }
+
+.center{
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+
+img {
+    margin: 10px 0;
+}
